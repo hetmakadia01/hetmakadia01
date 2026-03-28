@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Het Makadia
 
 🎓 Bachleors in  Computer Science Graduate 
+
 💻 Passionate Full-Stack Developer  
 🚀 Building innovative web projects with React.js, Python,Flask, JavaScript, Typescript, MySQL,MongoDB, React,js, Node.js and more!
 
@@ -16,9 +17,13 @@
 ## 🛠️ Tech Stack
 
 **Languages:** Python, Java
-**Frontend:** HTML, CSS< React.js
+
+**Frontend:** HTML, CSS, React.js
+
 **Backend:** Flask, Node.js
-**Database:** MySQL, MOngo DB
+
+**Database:** MySQL, Mongo DB
+
 **Tools:** Git, Postman, VS Code, MySQL Workbench  
 
 ---
